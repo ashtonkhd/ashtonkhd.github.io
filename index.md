@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Introduction
-I am a cognitive science student at the University of Edinburgh. I am currently studying at the University of Helsinki as an exchange student for a year. My main interests in cognitive science are computer science, linguistics, and how they interact in the field of natural language processing. <img src="assets/images/UoEInformatics.jpg" alt="Photo" hspace="20" width="30%" align="right"/>
+I am a cognitive science student at the University of Edinburgh. I am currently studying at the University of Helsinki as an exchange student for a year. My main interests in cognitive science are computer science, linguistics, and how they interact in the field of natural language processing. <img src="assets/images/UoEInformatics.jpeg" alt="Photo" hspace="20" width="30%" align="right"/>
 
 ## Find me on
 
