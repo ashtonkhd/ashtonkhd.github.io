@@ -23,3 +23,6 @@ My email address is ashtonhumbydavis@gmail.com.
 ## Projects
 
 [Command-Line Course final project](https://github.com/ashtonkhd/ashtonkhd.github.io)
+
+## CV
+[My CV](https://www.overleaf.com/read/qgjhkcfptksp#7c9cb2)
